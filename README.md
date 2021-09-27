@@ -31,4 +31,3 @@
 
 - [teamlead](https://github.com/sharovatov/teamlead) — пишу об управлении
 - [AMTECH shkar](https://github.com/AMTECH-dev/shkar) — Школа Кадрового Резерва
-- [AMTECH works](https://github.com/AMTECH-dev/works) — всё о компании АМТЕХ

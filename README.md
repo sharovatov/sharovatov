@@ -18,22 +18,8 @@ Sometimes companies approach me and ask to give talks for their peeps, which I o
 
 I believe that being as transparent as possible is _the way_, so I try putting all my thoughts in [the github repo](https://github.com/sharovatov/teamlead).
 
-## Где я работаю
+## Work
 
-Тружусь я в славной компании [Qase](https://qase.io) — мы делаем крутую TMS-систему и помогаем людям и компаниям в трудной работе по обеспечению качества.
+I work at [Qase](https://qase.io) — we promote TestOps philosophy and help other companies maintain good product quality with our great TMS
 
-## Чем я помогу помочь вам?
-
-С удовольствием помогу вам и вашей компании разобраться со следующими темами:
-
-- найм, удержание, мотивация, адаптация, увольнения, обучение, рост и развитие
-- hr-brand и работа с сообществами
-- культура и практика менторства
-- процессы разработки ПО
-
-Пишите в [телеграм](https://t.me/vitaly19842), договоримся.
-
-## Репозитории
-
-- [teamlead](https://github.com/sharovatov/teamlead) — пишу об управлении
-- [AMTECH shkar](https://github.com/AMTECH-dev/shkar) — Школа Кадрового Резерва
+Want to chat? I'm always available in [telegram](https://t.me/vitaly19842).

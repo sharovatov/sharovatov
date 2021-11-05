@@ -6,9 +6,13 @@ In 2004 became a web-developer, did lots of javascript/html/css/php then some .N
 
 Assembled my first team in 2007, but was still also coding at the time.
 
-С 2016 занимаюсь только работой с людьми: организацией процессов разработки, помощью командам и тимлидам в росте и развитии, работой с сообществами. Люблю андрогогику.
+Since 2016 I stopped coding professionally, doing it only occasionally now — I became a fulltime EM / teamlead.
 
-Много выступаю, все мои выступления можно посмотреть в [плейлисте на ютубе](https://www.youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY), список выступлений с доступными слайдами или статьями — [тут](https://github.com/sharovatov/teamlead/blob/master/alltalks.md).
+I also started mentoring teamleads somewhere around 2017.
+
+Teaching, mentoring, lecturing — essentially helping others — is my passion.
+
+All my talks can be found on [youtube](https://www.youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
 Постоянно читаю лекции, чаще всего это делаю в компаниях, с которыми сотрудничаю, готов прийти и к вам в компанию. Выступал в Рокетбанке, Badoo, AM-Tech, Mail.ru, Pixonic, Softwise, DouDouGames.
 

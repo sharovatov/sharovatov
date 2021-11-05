@@ -1,10 +1,10 @@
-## Обо мне
+## About me
 
-В IT я с 2001 года, начал с системного администрирования сетей и домена Active Directory.
+I started my first job in IT in 2001, joined a small company in Volzhsky, Volgograd region, Russia as a sysadmin, was doing network support and Active Directory maintenance and support.
 
-С 2004 в веб-программировании. Много программировал на javascript, о чём сохранились записи в [старом блоге](https://sharovatov.github.io).
+In 2004 became a web-developer, did lots of javascript/html/css/php then some .NET. Had lost of fun supporting IE5.5, IE6, IE, Opera 7+ :)
 
-С 2007 года начал руководить, совмещал с программированием много лет.
+Assembled my first team in 2007, but was still also coding at the time.
 
 С 2016 занимаюсь только работой с людьми: организацией процессов разработки, помощью командам и тимлидам в росте и развитии, работой с сообществами. Люблю андрогогику.
 

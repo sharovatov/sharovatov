@@ -14,11 +14,9 @@ Teaching, mentoring, lecturing — essentially helping others — is my passion.
 
 All my talks can be found on [youtube](https://www.youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
-Постоянно читаю лекции, чаще всего это делаю в компаниях, с которыми сотрудничаю, готов прийти и к вам в компанию. Выступал в Рокетбанке, Badoo, AM-Tech, Mail.ru, Pixonic, Softwise, DouDouGames.
+Sometimes companies approach me and ask to give talks for their peeps, which I of course love to do. I was giving talks in Rocketbank, Badoo, Am-tech, mail.ru, Pixonic, Softwise, DouDouGames.
 
-Много занимаюсь просветительской работой — посмотрите в репозитории [teamlead](https://github.com/sharovatov/teamlead).
-
-Всё, что я пишу — живые документы. Заглядывайте почаще или подписывайтесь, обновления довольно регулярны.
+I believe that being as transparent as possible is _the way_, so I try putting all my thoughts in [the github repo](https://github.com/sharovatov/teamlead).
 
 ## Где я работаю
 

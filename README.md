@@ -2,7 +2,7 @@
 
 I started my first job in IT in 2001, joined a small company in Volzhsky, Volgograd region, Russia as a sysadmin, was doing network support and Active Directory maintenance and support.
 
-In 2004 became a web-developer, did lots of javascript/html/css/php then some .NET. Had lost of fun supporting IE5.5, IE6, IE, Opera 7+ :)
+In 2004 became a web-developer, did lots of javascript/html/css/php then some .NET. Had lots of fun supporting IE5.5, IE6, IE, Opera 7+ :)
 
 Assembled my first team in 2007, but was still also coding at the time.
 

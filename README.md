@@ -1,6 +1,6 @@
 ## About me
 
-I started my first job in IT in 2001, joined a small company in Volzhsky, Volgograd region, Russia as a sysadmin, was doing network support and Active Directory maintenance and support.
+I started my first job in IT in 2001, joined a small company in Volzhsky (Volgograd region, Russia) as a sysadmin, was doing network support and Active Directory maintenance and support.
 
 In 2004 became a web-developer, did lots of javascript/html/css/php then some .NET. Had lots of fun supporting IE5.5, IE6, IE, Opera 7+ :)
 

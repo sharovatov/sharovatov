@@ -20,6 +20,6 @@ I believe that being as transparent as possible is _the way_, so I try putting a
 
 ## Work
 
-I work at [Qase](https://qase.io) — we promote TestOps philosophy and help other companies maintain good product quality with our great TMS
+I work at [Qase](https://qase.io) — we help companies build and maintain good product quality with our great TMS
 
 Want to chat? I'm always available in [telegram](https://t.me/vitaly19842).

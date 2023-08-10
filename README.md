@@ -8,7 +8,7 @@ Assembled my first team in 2007, but was still also coding at the time.
 
 Since 2016 I stopped coding professionally, doing it only occasionally now — I became a fulltime EM / teamlead.
 
-I also started mentoring teamleads somewhere around 2017.
+I also started mentoring Engineering Managers in 2017.
 
 Teaching, mentoring, lecturing — essentially helping others — is my passion.
 

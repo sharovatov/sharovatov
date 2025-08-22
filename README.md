@@ -1,25 +1,19 @@
 ## About me
 
-I started my first job in IT in 2001, joined a small company in Volzhsky (Volgograd region, Russia) as a sysadmin, was doing network support and Active Directory maintenance and support.
+I started my first job in IT in 2001 as a system administrator in a small company in Volzhsky (Volgograd region, Russia). In 2004 became a web-developer, did lots of javascript/html/css/php and had all the fun of supporting IE5.5, IE6 and Opera 7+. Later, I did some programming in C#, PHP and C++. 
 
-In 2004 became a web-developer, did lots of javascript/html/css/php then some .NET. Had lots of fun supporting IE5.5, IE6, Opera 7+ :)
+I assembled my first team in 2007, and since then I was studying and practicing management too. Since 2017, I started sharing my knowledge and mentoring engineering managers.
 
-Assembled my first team in 2007, but was still also coding at the time.
-
-Since 2016 I stopped coding professionally, doing it only occasionally now — I became a fulltime EM / teamlead.
-
-I also started mentoring Engineering Managers in 2017.
-
-Teaching, mentoring, lecturing — essentially helping others — is my passion.
+Teaching, mentoring, lecturing — essentially helping others — is my true passion.
 
 All my talks can be found on [youtube](https://www.youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
-Sometimes companies approach me and ask to give talks for their peeps, which I of course love to do. I was giving talks in Rocketbank, Badoo, Am-tech, mail.ru, Pixonic, Softwise, DouDouGames.
-
-I believe that being as transparent as possible is _the way_, so I try putting all my thoughts in [the github repo](https://github.com/sharovatov/teamlead).
+Most of my blogposts can be found on [my github](https://sharovatov.github.io)
 
 ## Work
 
-I work at [Qase](https://qase.io) — we help companies build and maintain good product quality with our great TMS
+Since 2022, I work as a developer advocate at [Qase](https://qase.io). At Qase, we help companies build and maintain good product quality with our great TMS.
 
-Want to chat? I'm always available in [telegram](https://t.me/vitaly19842).
+Feel free to reach out and chat:
+- [Telegram](https://t.me/vitaly19842)
+- [Email](mailto:vitaly.sharovatov@gmail.com)
